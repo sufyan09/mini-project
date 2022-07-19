@@ -1,0 +1,2 @@
+{'customer_name': 'Sam', 'customer_adress': '90 George Road, BIRMINGHAM, B16 9UH', 'customer_phone': '07544678051', 'courier': 1, 'status': 'preparing'}
+{'Name': 'Leona', 'Phone': '07525901640', 'Email_address': 'leona16@hotmail.com', 'Address': '16 Temple Road, West Midlands, B6,8PQ', 'Courier': '1'}

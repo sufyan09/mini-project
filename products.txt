@@ -1,0 +1,4 @@
+product name,price
+fanta,0.69
+coke,1.29
+pizza,4.0
